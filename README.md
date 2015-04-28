@@ -1,1 +1,3 @@
 # RemoteLockService
+参考ojb锁实现提取出一般的远程锁服务端和客户端
+lockserver是基于spring boot 开发的
